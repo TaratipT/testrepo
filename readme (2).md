@@ -1,64 +1,98 @@
-📱 BidNa – Auction-Based Product Estimation Application
-🧩 ชื่อแอป BidNa
+# 📱 **BidNa**
+## *Auction-Based Product Estimation Application*
 
 ---
 
-❗ Problem Statement (ปัญหาที่จะแก้)
-
-- ปัจจุบันผู้ที่ต้องการ ขายสินค้าแบบประมูล หรือ ประเมินมูลค่าสินค้า
-  ยังไม่มีแพลตฟอร์มที่เป็นศูนย์กลางและใช้งานง่าย โดยเฉพาะในระดับกลุ่มเล็ก ชุมชน หรือมหาวิทยาลัย
-
-- ผู้ใช้งานมักพึ่งพาโซเชียลมีเดียหรือกลุ่มแชต ซึ่งก่อให้เกิดปัญหา เช่น
-
-- ไม่มีระบบบันทึกและจัดการประวัติการประมูล
-
-- การประมูลไม่โปร่งใส เสี่ยงต่อการโกงหรือเปลี่ยนแปลงราคา
-
-- ผู้ขายไม่สามารถประเมินมูลค่าสินค้าตามความต้องการของตลาดได้
-
-- ไม่มีแพลตฟอร์มที่รวมฟังก์ชันการประมูลไว้ครบในที่เดียว
-
-- BidNa จึงถูกพัฒนาขึ้นเพื่อเป็นแพลตฟอร์มกลางสำหรับการประมูล
-  ช่วยให้การประเมินราคาสินค้าเป็นไปอย่างโปร่งใส เป็นระบบ และสะดวกต่อการใช้งาน
+## 🧩 **ชื่อแอป**
+**BidNa**
 
 ---
 
-🎯 Target Users
+## ❗ **Problem Statement (ปัญหาที่จะแก้)**
 
-- ผู้ขายสินค้า
+ปัจจุบันผู้ที่ต้องการ **ขายสินค้าแบบประมูล** หรือ **ประเมินมูลค่าสินค้า**  
+ยังไม่มีแพลตฟอร์มที่เป็นศูนย์กลางและใช้งานง่าย โดยเฉพาะในระดับกลุ่มเล็ก ชุมชน หรือมหาวิทยาลัย
 
-- ผู้เข้าร่วมประมูล
+ผู้ใช้งานมักพึ่งพาโซเชียลมีเดียหรือกลุ่มแชต ซึ่งก่อให้เกิดปัญหา เช่น  
+- ไม่มีระบบบันทึกและจัดการประวัติการประมูล  
+- การประมูลไม่โปร่งใส เสี่ยงต่อการโกงหรือเปลี่ยนแปลงราคา  
+- ผู้ขายไม่สามารถประเมินมูลค่าสินค้าตามความต้องการของตลาดได้  
+- ไม่มีแพลตฟอร์มที่รวมฟังก์ชันการประมูลไว้ครบในที่เดียว  
 
+**BidNa** จึงถูกพัฒนาขึ้นเพื่อเป็นแพลตฟอร์มกลางสำหรับการประมูล  
+ช่วยให้การประเมินราคาสินค้าเป็นไปอย่างโปร่งใส เป็นระบบ และสะดวกต่อการใช้งาน
+
+---
+
+## 🎯 **Target Users**
+
+- ผู้ขายสินค้า  
+- ผู้เข้าร่วมประมูล  
 - นักสะสมสินค้า (Collectibles)
 
 ---
 
-🚀 MVP Features (5–8 Features)
+## 🚀 **MVP Features (5–8 Features)**
 
-- User Authentication
-- Product Listing
-- Real-time Bidding
-- Countdown Timer
-- Bid History
-- My Auctions / My Bids
-- Simple Notification
+### 1️⃣ **User Authentication**
+- ระบบสมัครสมาชิกและเข้าสู่ระบบ  
+- รองรับ Email และ Social Login  
+
+### 2️⃣ **Product Listing**
+- ผู้ขายสามารถลงประกาศสินค้า  
+- ระบุรายละเอียดสินค้า ราคาเริ่มต้น และเวลาประมูล  
+
+### 3️⃣ **Real-time Bidding**
+- ระบบเสนอราคาแบบเรียลไทม์  
+- แสดงราคาสูงสุดปัจจุบันทันที  
+
+### 4️⃣ **Countdown Timer**
+- แสดงเวลานับถอยหลังของการประมูลแต่ละรายการ  
+
+### 5️⃣ **Bid History**
+- แสดงประวัติการเสนอราคาของผู้ใช้งาน  
+
+### 6️⃣ **My Auctions / My Bids**
+- ดูรายการสินค้าที่ตนเองขาย  
+- ดูสินค้าที่กำลังเข้าร่วมประมูล  
+
+### 7️⃣ **Simple Notification**
+- แจ้งเตือนเมื่อการประมูลสิ้นสุด  
+- แจ้งเตือนเมื่อมีผู้เสนอราคาสูงกว่า  
 
 ---
 
-✨ Nice-to-Have Features (Future Work)
+## ✨ **Nice-to-Have Features (Future Work)**
 
-- Push Notification
-- Payment Gateway Integration
-- Chat System
-- Watchlist / Favorite
-- Rating & Review System
-- Search & Category Filter
+1. Push Notification  
+2. Payment Gateway Integration  
+3. Chat System  
+4. Watchlist / Favorite  
+5. Rating & Review System  
+6. Search & Category Filter  
+
+---
+
+## ⚙️ **Non-Functional Requirements**
+
+### **Usability**
+- UI ต้องใช้งานง่าย ชัดเจน  
+- ปุ่มเสนอราคาต้องไม่กดพลาด  
+
+### **Security**
+- ข้อมูลผู้ใช้และประวัติการประมูลต้องถูกเก็บอย่างปลอดภัย  
+- ป้องกันการเข้าถึงข้อมูลโดยไม่ได้รับอนุญาต  
 
 ---
 
-⚙️ Non-Functional Requirements
+## 🛠 **Tech Stack (Proposed)**
 
-- Usability
-- Security
+- Flutter (Mobile Application)  
+- Firebase Authentication  
+- Firebase Realtime Database / Firestore  
+- Cloud Functions (Optional)
 
 ---
+
+## 📦 **GitHub Repository**
+👉 https://github.com/CapybaraCapybara/BidNa
