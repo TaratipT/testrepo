@@ -98,7 +98,8 @@
 ---
 
 ## 👥 **Owners**
-* **66070086** ธราธิป เตชะธาดาเดช [TaratipT](https://github.com/TaratipT)
-* **66070234** กรวิชญ์ มณีรัตน์ [KorawichManeeratana](https://github.com/KorawichManeeratana)
-* **66070263** ธนกฤต สุทธิพงษ์ [CapybaraCapybara](https://github.com/CapybaraCapybara)
+* **66070086** ธราธิป เตชะธาดาเดช (@[TaratipT](https://github.com/TaratipT))
+* **66070234** กรวิชญ์ มณีรัตน์ (@[KorawichManeeratana](https://github.com/KorawichManeeratana))
+* **66070263** ธนกฤต สุทธิพงษ์ (@[CapybaraCapybara](https://github.com/CapybaraCapybara))
+
 
