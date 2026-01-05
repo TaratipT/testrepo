@@ -82,7 +82,8 @@
 ---
 
 ## **Demo**
-👉 [Demo](https://id-preview--c2b562b7-cef4-4153-9f7d-2b722690095e.lovable.app/auction/1)
+👉 [Demo](https://id-preview--c2b562b7-cef4-4153-9f7d-2b722690095e.lovable.app)
+
 
 
 
