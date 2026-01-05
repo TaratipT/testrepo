@@ -1,6 +1,6 @@
-# 📱 **BidNa**
-*Online Auction Mobile Application*
-แอปพลิเคชันประมูลสินค้าออนไลน์
+# 📱 **BidNa**  
+### *Online Auction Mobile Application*  
+แอปพลิเคชันสำหรับการประมูลสินค้าออนไลน์  
 
 ---
 
@@ -92,5 +92,6 @@
 
 ## 📦 **GitHub Repository**
 👉 https://github.com/CapybaraCapybara/BidNa
+
 
 
