@@ -1,10 +1,7 @@
 # 📱 **BidNa**
-## *Auction-Based Product Estimation Application*
+## *Online Auction Mobile Application*
 
----
-
-## 🧩 **ชื่อแอป**
-**BidNa**
+# แอปพลิเคชันประมูลสินค้าออนไลน์
 
 ---
 
@@ -96,3 +93,4 @@
 
 ## 📦 **GitHub Repository**
 👉 https://github.com/CapybaraCapybara/BidNa
+
